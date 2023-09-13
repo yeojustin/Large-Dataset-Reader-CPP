@@ -1,6 +1,6 @@
 # Customized Reader For Multiple Large Datasets
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="VJmeyAU"  ><a href="//imgur.com/VJmeyAU">5 sites you can use to learn C++</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![CPP Logo Image](https://i.imgur.com/VJmeyAU.jpeg)
 
 Welcome to the "Customized Reader For Multiple Large Datasets" project, a Data Structure & Abstractions project associated with Murdoch University. 📚
 
