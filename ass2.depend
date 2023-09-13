@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1690389451 source:c:\users\justin\desktop\codeblocksproject\ass2\date.cpp
+	"Date.h"
+
+1690894935 c:\users\justin\desktop\codeblocksproject\ass2\date.h
+	<iostream>
+	<string>
+
+1690467135 source:c:\users\justin\desktop\codeblocksproject\ass2\solarrad.cpp
+	"SolarRad.h"
+
+1690894560 c:\users\justin\desktop\codeblocksproject\ass2\solarrad.h
+	<string>
+	<iostream>
+
+1690389272 source:c:\users\justin\desktop\codeblocksproject\ass2\speed.cpp
+	"Speed.h"
+
+1690894229 c:\users\justin\desktop\codeblocksproject\ass2\speed.h
+	<iostream>
+
+1690389372 source:c:\users\justin\desktop\codeblocksproject\ass2\temperature.cpp
+	"Temperature.h"
+
+1690893875 c:\users\justin\desktop\codeblocksproject\ass2\temperature.h
+	<iostream>
+	<string>
+
+1690893128 source:c:\users\justin\desktop\codeblocksproject\ass2\windrec.cpp
+	"WindRec.h"
+
+1690874007 c:\users\justin\desktop\codeblocksproject\ass2\windrec.h
+	"Speed.h"
+	"SolarRad.h"
+	"Temperature.h"
+	<string>
+
+1690458765 source:c:\users\justin\desktop\codeblocksproject\ass2\bsttest.cpp
+	<iostream>
+	<cassert>
+	"Bst.h"
+
+1690895390 c:\users\justin\desktop\codeblocksproject\ass2\bst.h
+	<algorithm>
+	<iostream>
+
+1690459474 source:c:\users\justin\desktop\codeblocksproject\ass2\testspeed.cpp
+
+1690874007 source:c:\users\justin\desktop\codeblocksproject\ass2\testdate.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	"Date.h"
+
+1690465542 source:c:\users\justin\desktop\codeblocksproject\ass2\testsolarrad.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	"SolarRad.h"
+
+1690467881 source:c:\users\justin\desktop\codeblocksproject\ass2\time.cpp
+	"Time.h"
+
+1690893826 c:\users\justin\desktop\codeblocksproject\ass2\time.h
+	<iostream>
+	<string>
+
+1690874260 source:c:\users\justin\desktop\codeblocksproject\ass2\testbst.cpp
+	<iostream>
+	<cassert>
+	"Bst.h"
+
+1690874007 source:c:\users\justin\desktop\codeblocksproject\ass2\testwindrec.cpp
+	<iostream>
+	<cassert>
+	"WindRec.h"
+
+1690893010 source:c:\users\justin\desktop\codeblocksproject\ass2\windreccollections.cpp
+	"WindRecCollections.h"
+
+1690881167 c:\users\justin\desktop\codeblocksproject\ass2\windreccollections.h
+	"Bst.h"
+	"WindRec.h"
+	"DataWrapper.h"
+	"Helper.h"
+	<typeinfo>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<string>
+
+1690884770 source:c:\users\justin\desktop\codeblocksproject\ass2\main.cpp
+	"WindRecCollections.h"
+	"Helper.h"
+	"TestSuite.h"
+
+1690895040 c:\users\justin\desktop\codeblocksproject\ass2\datawrapper.h
+	"Bst.h"
+	<map>
+
+1690669992 c:\users\justin\desktop\codeblocksproject\ass2\helper.h
+	<string>
+	<limits>
+	<stdexcept>
+	<iostream>
+
+1690881685 source:c:\users\justin\desktop\codeblocksproject\ass2\helper.cpp
+	"Helper.h"
+
+1690868667 source:c:\users\justin\desktop\codeblocksproject\ass2\maintest.cpp
+	"WindRecCollections.h"
+
+1690883377 source:c:\users\justin\desktop\codeblocksproject\ass2\testsuite.cpp
+	"TestSuite.h"
+
+1690874007 source:c:\users\justin\desktop\codeblocksproject\ass2\testwindreccollections.cpp
+	"WindRecCollections.h"
+
+1690893642 c:\users\justin\desktop\codeblocksproject\ass2\testsuite.h
+	"Bst.h"
+	"DataWrapper.h"
+	"Date.h"
+	"SolarRad.h"
+	"Speed.h"
+	"Temperature.h"
+	"Time.h"
+	"WindRec.h"
+	"WindRecCollections.h"
+	<iostream>
+	<cassert>
+
+1690878178 source:c:\users\justin\desktop\codeblocksproject\ass2\testdatawrapper.cpp
+	<iostream>
+	<cassert>
+	"DataWrapper.h"
+
+1690874007 source:c:\users\justin\desktop\codeblocksproject\ass2\testtime.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	"Time.h"
+
+1690874007 source:c:\users\justin\desktop\codeblocksproject\ass2\testtemperature.cpp
+	<iostream>
+	<sstream>
+	<cassert>
+	<iomanip>
+	"Temperature.h"
+
