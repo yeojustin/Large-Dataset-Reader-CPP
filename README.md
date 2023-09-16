@@ -28,8 +28,7 @@ To get started with this project, you can follow these steps:
 
 ## Contributors
 
-- [Yeo Justin](https://www.linkedin.com/in/justinyeo177/) - Project Developer
-- Shoot me a PM/DM if you would like to explore the code, I will send you a customised link.
+- Yeo Justin - Project Developer
 
 ## Acknowledgments
 
