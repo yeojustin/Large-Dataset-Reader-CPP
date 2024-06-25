@@ -2,11 +2,9 @@
 
 ![CPP Logo Image](https://i.imgur.com/VJmeyAU.jpeg)
 
-Welcome to the "Customized Reader For Multiple Large Datasets" project, a Data Structure & Abstractions project associated with Murdoch University. 📚
+## Overview
 
-## Project Overview
-
-In this project, I designed and implemented a non-GUI based C++ program to efficiently manage and manipulate diverse data elements using an AVL-tree-map-based data structure. The goal was to provide a robust solution for handling multiple large datasets.
+I designed and implemented a backend C++ program to efficiently manage and manipulate diverse data elements using an AVL-tree-map-based data structure. The goal was to provide a robust solution for handling multiple large datasets.
 
 ## Key Features
 
@@ -28,10 +26,4 @@ To get started with this project, you can follow these steps:
 
 ## Contributors
 
-- Yeo Justin - Project Developer
-
-## Acknowledgments
-
-I would like to express my gratitude to Lecturer Leng Kang for his guidance and support throughout this project.
-
-Happy coding! 🚀
+- Myself
